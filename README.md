@@ -28,7 +28,7 @@ This room involves exploiting a secure website to gain access to the system and 
 - (cve-2014-6271 - shellshock, linpeas.sh)
 
 ## Notes
-This room provided a hands-on experience with **0-day exploits** and required lateral thinking to achieve root access.
+This room provided a hands-on experience with **1-day exploits** and required lateral thinking to achieve root access.
 
 ## Acknowledgments
 Thanks to TryHackMe for this challenging and educational room.
