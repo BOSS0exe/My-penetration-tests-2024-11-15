@@ -1,6 +1,15 @@
 # TryHackMe - 0day Room
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3792673" style='border:none;'></iframe>
+![Project Screenshot](result.png)
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3792673.png)](https://tryhackme.com/p/3792673)
+
+Or embed using HTML (if applicable):
+```html
+<iframe 
+    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3792673" 
+    style="border:none; width:100%; height:300px;">
+</iframe>
 
 
 ## Overview
@@ -10,13 +19,13 @@ This room involves exploiting a secure website to gain access to the system and 
 1. **User Flag**
    - Successfully retrieved the `user.txt` flag:
      ```
-     THM{S[redacted]0ck_r0ckz}
+     THM{S**********0ck_r0ckz}
      ```
 
 2. **Root Flag**
    - Successfully retrieved the `root.txt` flag:
      ```
-     THM{g00d_[redacted]_is_Pleased}
+     THM{g00d_******day_is_Pleased}
      ```
 
 ## Tools and Techniques Used
@@ -34,3 +43,4 @@ Thanks to TryHackMe for this challenging and educational room.
 ---
 
 *Created by [Badr Aouragh]* on *TryHackMe*.
+
