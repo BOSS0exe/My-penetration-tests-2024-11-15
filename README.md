@@ -2,9 +2,9 @@
 
 ![Project Screenshot](0day-result.png)
 
-[TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3792673)
-[TryHackMe Room](https://tryhackme.com/r/room/0day)
-[My TryHackMe Account](https://tryhackme.com/r/p/aouraghbadr)
+[TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3792673) | 
+[TryHackMe Room](https://tryhackme.com/r/room/0day) | 
+[My TryHackMe Account](https://tryhackme.com/r/p/aouraghbadr) | 
 
 ## Overview
 This room involves exploiting a secure website to gain access to the system and retrieve the user and root flags.
