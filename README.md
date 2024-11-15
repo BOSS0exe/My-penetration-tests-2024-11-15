@@ -2,7 +2,7 @@
 
 ![Project Screenshot](result.png)
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3792673)
+[TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3792673)
 
 
 ## Overview
