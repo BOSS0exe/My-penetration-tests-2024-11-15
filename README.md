@@ -1,6 +1,6 @@
 # TryHackMe - 0day Room
 
-![Project Screenshot](result.png)
+![Project Screenshot](0day-result.png)
 
 [TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3792673)
 
