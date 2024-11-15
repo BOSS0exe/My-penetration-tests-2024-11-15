@@ -2,14 +2,7 @@
 
 ![Project Screenshot](result.png)
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3792673.png)](https://tryhackme.com/p/3792673)
-
-Or embed using HTML (if applicable):
-```html
-<iframe 
-    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3792673" 
-    style="border:none; width:100%; height:300px;">
-</iframe>
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3792673)
 
 
 ## Overview
@@ -43,4 +36,3 @@ Thanks to TryHackMe for this challenging and educational room.
 ---
 
 *Created by [Badr Aouragh]* on *TryHackMe*.
-
