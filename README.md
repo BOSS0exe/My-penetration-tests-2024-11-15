@@ -12,15 +12,13 @@ This room involves exploiting a secure website to gain access to the system and 
 ## Steps
 1. **User Flag**
    - Successfully retrieved the `user.txt` flag:
-     ```
+   - 
      THM{S**********0ck_r0ckz}
-     ```
 
 2. **Root Flag**
    - Successfully retrieved the `root.txt` flag:
-     ```
+
      THM{g00d_******day_is_Pleased}
-     ```
 
 ## Tools and Techniques Used
 - Website enumeration
